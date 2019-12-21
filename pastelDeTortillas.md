@@ -42,6 +42,8 @@ con trocitos de butifarra e igualmente puede hacerse con garbanzos.
 
 ## Pastel de Tortillas (caliente)
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ### Ingredientes para 3 personas
 
 - 3 huevos

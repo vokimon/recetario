@@ -21,6 +21,8 @@ Cocer unos segundos mas y retirar.
 
 ## Salsa crema
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ### Ingredientes
 
 - 1/4 de leche
@@ -39,6 +41,8 @@ Ponerla al fuego durante unos seguindos, retirarla y añadir la crema de la lech
 
 
 ## Salsa Aurora
+
+Receta original manuscrita por Josefa Garzón Salcedo
 
 ### Ingredientes
 
