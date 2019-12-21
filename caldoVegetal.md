@@ -1,8 +1,8 @@
-# Caldo Vegetal
+## Caldo Vegetal
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes para 8 personas
+### Ingredientes para 8 personas
 
 - 4l de agua
 - 100g de zanahoria
@@ -13,7 +13,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - 100g de patatas
 - 1 cebolla 2 o 3 hojas de acelga
 
-## Preparación
+### Preparación
 
 Poner al fuego la cantidad de agua indicada.
 Cuando empiece a hervir sazonar y agregar todos los vegetqales limpios y cortados por la mitad.

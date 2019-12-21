@@ -1,8 +1,8 @@
-# Gazpacho andaluz
+## Gazpacho andaluz
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes para 6 personas
+### Ingredientes para 6 personas
 
 - 200g de pan
 - 400g de tomate
@@ -13,7 +13,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - 1 pepipno pequeño
 - 1 cebolla
 
-## Preparación
+### Preparación
 
 En un mortero grande se pica el ajo y se le agrega 175g de pan remojado y el tomate cortado a trozos con  la piel.
 Se machaca bien y se añade el tomate y el aceite y se sazona.

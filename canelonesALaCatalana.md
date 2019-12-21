@@ -1,8 +1,8 @@
-# Canelones a la catalana
+## Canelones a la catalana
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes para 4 o 5 personas
+### Ingredientes para 4 o 5 personas
 
 - 20 canelones
 - 3000 gr de carne magra de cerdo
@@ -17,14 +17,14 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - 1 tacita de caldo
 - 1 cucharadita de tomate concentrado
 
-## Pasta
+### Pasta
 
 Verter un tacita de aceite i sal en abundante agua hirviendo.
 Poner los canelones de uno en uno dejándolos hervir lentamente unos 15 minuos removiendolos de vez en cuando.
 Una ves cocidos sacarlos con espumadera y ponerslos en recipiente de agua fría.
 Despues de unos minutos colocarlos sobre un marmol o paño de cocina (uno al lado de otro) a punto para rellenarlos.
 
-## Relleno
+### Relleno
 
 Freir la carne a trocitos y la pechuga sin hueso en una cazuela  con un poco de aceite.
 Dorar ligeramente y añadir la cebolla bien picada, rehogarla.
@@ -35,7 +35,7 @@ Sazonar un poco, dar unas vueltas mas y retirar.
 Pasarlo por la maquina de trinchar, quedando picadillo fino.
 Añadirle el foigras mezclando y ponerlo otra vesz en la cazuela para aprovechar toda la sustancia. que queda en ella, removiendolo unos segundos.
 
-## Montaje
+### Montaje
 
 Se pone una cucharada de picadillo en cada canelon y se enrollan.
 Se colocan juntos pero no apretados en una fuente engrasada y restistente al horno.

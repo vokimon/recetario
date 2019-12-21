@@ -1,8 +1,8 @@
-# Macedonia de Frutas
+## Macedonia de Frutas
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes para 8 personas
+### Ingredientes para 8 personas
 
 - 8 peras de agua
 - 2 manzanas
@@ -17,7 +17,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 
 (Se puede variar la fruta según la temporada)
 
-## Preparación
+### Preparación
 
 Preparar un almibar con 1/2l de agua y el azucar cociendolo durante 3 minutos.
 Agregarle las manzanas, peladas y troceadas a cuadritos y frotadas con limon.

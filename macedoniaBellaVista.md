@@ -1,8 +1,8 @@
-# Macedonia de Frutas Bella Vista
+## Macedonia de Frutas Bella Vista
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes para 6 o 8 personas
+### Ingredientes para 6 o 8 personas
 
 - 4 o 5 medios melocotones en almibar
 - 1 manzana grande
@@ -17,7 +17,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - 125cc de zumo de piña
 
 
-## Preparación
+### Preparación
 
 Cocer la manzana en almibar (ver Macedonia de frutas normal)
 con 1/2l de agua y el azucar.

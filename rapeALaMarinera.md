@@ -1,8 +1,8 @@
-# Rape a la Marinera
+## Rape a la Marinera
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes para 4 personas
+### Ingredientes para 4 personas
 
 - 500g o 600g de rape
 - 8 mejillones
@@ -15,12 +15,12 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - 1 limon
 - 1 tacita escasa de vino blanco
 
-## Pescado
+### Pescado
 
 Cortar el rape en rodajas y una vez limpio cocerlo en escalfado
 sazonado con sal, zumo de limon, vino blanco y media tacita de agua.
 
-## Salsa
+### Salsa
 
 Freir la cebolla bien picada en un cazo.
 Cuando empiece a dorar, añadir los tomates hechos puré.
@@ -29,7 +29,7 @@ A continuación, el líquido de cocción del pescado.
 Sazonar ligeramente y al cabo de unos minutos agregar las almendras y los piñones picados.
 Terminar de cocer 5 minutos más.
 
-## Emplatado
+### Emplatado
 
 Colocar los filetes de rape en una fuente de servir y cubrirlos con la salsa.
 Alrededor poner los mejillones abiertos, llenas de guisantes hervidos la otra concha.

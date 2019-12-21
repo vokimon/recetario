@@ -1,8 +1,8 @@
-# Pastel de Tortillas (frío)
+## Pastel de Tortillas (frío)
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes para 3 personas
+### Ingredientes para 3 personas
 
 - 3 huevos
 - 75g de atun en escabeche
@@ -13,7 +13,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - Ensalada
 - 25g de mantequilla
 
-## Espinacas
+### Espinacas
 
 Limpiar las espinacas dejándolas sin tronco.
 Hervirlas, refrescarlas y escurrirlas.
@@ -21,12 +21,12 @@ Destriparlas con tenedor.
 Esprimirlas con las manos.
 Sofreirlas unos pocos minutos con matequilla.
 
-## Patatas
+### Patatas
 
 Pelar las patatas y cortarlas a trozos pequeños y finos.
 Freirlas sin dorar.
 
-## Salsas
+### Salsas
 
 Hacer con los tomates una salsa
 
@@ -40,9 +40,9 @@ con trocitos de butifarra e igualmente puede hacerse con garbanzos.
 
 \newpage
 
-# Pastel de Tortillas (caliente)
+## Pastel de Tortillas (caliente)
 
-## Ingredientes para 3 personas
+### Ingredientes para 3 personas
 
 - 3 huevos
 - 75g de jamón
@@ -54,7 +54,7 @@ con trocitos de butifarra e igualmente puede hacerse con garbanzos.
 - 30g de mantequilla
 - 25g de queso rallado
 
-## Rellenos
+### Rellenos
 
 Cortar la cebolla en rajas muy finas.
 Reahogarlas cen un cazo con un poco de aceite hasta que este cocida sin dorar y sazonar.
@@ -62,7 +62,7 @@ Reahogarlas cen un cazo con un poco de aceite hasta que este cocida sin dorar y 
 Rehogar con un poco de aceite las judias o los guisantes (desgranados) agregando el jamón a cuadritos.
 Cocer el conjunto unos instantes más.
 
-## Tortillas
+### Tortillas
 
 Hacer las tortillas. Montarlas:
 
@@ -70,7 +70,7 @@ Hacer las tortillas. Montarlas:
 - 2a la de cebolla,
 - 3a la de verdura con jamon.
 
-## Horneado
+### Horneado
 
 Preparar una salsa bechamel con la leche la mantequilla y la harina.
 Después cubrir con ella las tortillas, espolvorear con queso rallado y gratinar unos segundos en el horno hasta que quede dorado.

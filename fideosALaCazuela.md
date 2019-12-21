@@ -1,8 +1,8 @@
-# Fideos a la cazuela
+## Fideos a la cazuela
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes
+### Ingredientes
 
 - 500g de fideos
 - 200g de costillas de cerdo
@@ -12,7 +12,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - 2 tomates
 - sal y aceite
 
-## Preparación
+### Preparación
 
 En una cazuela con un poco de aceite se pone la costilla cortada a trozos.
 Se saca cuando se ha dorado

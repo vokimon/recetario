@@ -1,8 +1,8 @@
-# Habas a la catalana
+## Habas a la catalana
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes
+### Ingredientes
 
 - 3 Kg de habas
 - 100 g de tocino magro
@@ -16,7 +16,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - 1 tacita de vino blanco
 - 1 tacita de caldo
 
-## Preparación
+### Preparación
 
 Freir un poco el tocino entero y las butifarras enteras en una olla con un poco de aceite.
 Retirar y agregar la cebolla picada.

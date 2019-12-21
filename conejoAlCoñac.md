@@ -1,8 +1,8 @@
-# Conejo al Coñac
+## Conejo al Coñac
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
-## Ingredientes para 4 personas
+### Ingredientes para 4 personas
 
 - 600g de conejo
 - 1 cebolla
@@ -12,7 +12,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 - 375cc de caldo
 
 
-## Preparación
+### Preparación
 
 Cortado el conejo a trozos se lava bien y se deja escurrir.
 Dorar el conejo en una cazuela con un poco de aceite y margarina.
