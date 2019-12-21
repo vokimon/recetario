@@ -5,7 +5,7 @@ Receta original manuscrita por Josefa Garzón Salcedo
 ### Ingredientes para 4 o 5 personas
 
 - 20 canelones
-- 3000 gr de carne magra de cerdo
+- 300 gr de carne magra de cerdo
 - 50 gr jamón dulce
 - 25 gr foigras
 - 100 gr de pechuga de pollo
