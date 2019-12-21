@@ -1,6 +1,7 @@
 # Habas a la catalana
 
-::: ingredientes
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes
 
 - 3 Kg de habas
@@ -14,10 +15,8 @@
 - 1/2 tacita de jerez seco
 - 1 tacita de vino blanco
 - 1 tacita de caldo
-:::
 
-
-## Procedimiento
+## Preparación
 
 Freir un poco el tocino entero y las butifarras enteras en una olla con un poco de aceite.
 Retirar y agregar la cebolla picada.

@@ -1,5 +1,7 @@
 # Pastel de Tortillas (frío)
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes para 3 personas
 
 - 3 huevos

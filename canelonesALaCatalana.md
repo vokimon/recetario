@@ -1,6 +1,7 @@
 # Canelones a la catalana
 
-::: ingredientes
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes para 4 o 5 personas
 
 - 20 canelones
@@ -15,7 +16,6 @@
 - 1 tacita de vino blanco
 - 1 tacita de caldo
 - 1 cucharadita de tomate concentrado
-:::
 
 ## Pasta
 

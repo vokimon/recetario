@@ -1,5 +1,7 @@
 # Gazpacho andaluz
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes para 6 personas
 
 200g de pan

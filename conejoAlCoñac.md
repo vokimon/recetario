@@ -1,5 +1,7 @@
 # Conejo al Coñac
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes para 4 personas
 
 - 600g de conejo

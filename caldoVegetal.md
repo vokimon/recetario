@@ -1,5 +1,7 @@
 # Caldo Vegetal
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes para 8 personas
 
 4l de agua

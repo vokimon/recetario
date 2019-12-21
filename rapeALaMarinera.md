@@ -1,5 +1,7 @@
 # Rape a la Marinera
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes para 4 personas
 
 - 500g o 600g de rape

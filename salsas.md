@@ -1,5 +1,7 @@
 # Salsa de Anchoas
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes
 
 - 4 filetes de anchoas

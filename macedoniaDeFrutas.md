@@ -1,5 +1,7 @@
 # Macedonia de Frutas
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ## Ingredientes para 8 personas
 
 - 8 peras de agua
