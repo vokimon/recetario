@@ -20,3 +20,19 @@ y 1/2 lata de agua, un vaso pequeño de vino y las almendras machacadas.
 Cocer todo a fuego lento hasta que se reduzca el tomate.
 
 
+## Pollo con Gambas (versión 2)
+
+Receta original manuscrita por Josefa Garzón Salcedo
+
+### Preparación
+
+Se fríe le pollo troceado y las gambas enteras.
+Se hace un sofrito de cebolla y tomate.
+Se le añade al pollo con las gambas en una cazuela de barro.
+Se machacan 100g de almendrastostadas, 2 dientes de ajo, un poco perejil.
+Se le hecha 1/2 litro de agua.
+Una vez hierva, esperar 10 o 15 minutos antes de apagar el fuego.
+
+
+
+\newpage
