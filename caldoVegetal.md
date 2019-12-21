@@ -4,14 +4,14 @@ Receta original manuscrita por Josefa Garzón Salcedo
 
 ## Ingredientes para 8 personas
 
-4l de agua
-100g de zanahoria
-50g de nabo
-1 puerro grande
-1 corazon o ramita de apio
-4 o 5 hojas de col
-100g de patatas
-1 cebolla 2 o 3 hojas de acelga
+- 4l de agua
+- 100g de zanahoria
+- 50g de nabo
+- 1 puerro grande
+- 1 corazon o ramita de apio
+- 4 o 5 hojas de col
+- 100g de patatas
+- 1 cebolla 2 o 3 hojas de acelga
 
 ## Preparación
 

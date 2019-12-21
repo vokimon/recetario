@@ -4,14 +4,14 @@ Receta original manuscrita por Josefa Garzón Salcedo
 
 ## Ingredientes para 6 personas
 
-200g de pan
-400g de tomate
-1 diente de ajo
-5 cucharadas de aceite
-1 cucharada de vinagre
-1 pimiento colorado o verde
-1 pepipno pequeño
-1 cebolla
+- 200g de pan
+- 400g de tomate
+- 1 diente de ajo
+- 5 cucharadas de aceite
+- 1 cucharada de vinagre
+- 1 pimiento colorado o verde
+- 1 pepipno pequeño
+- 1 cebolla
 
 ## Preparación
 
