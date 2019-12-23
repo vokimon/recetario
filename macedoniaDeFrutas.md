@@ -1,6 +1,7 @@
 ## Macedonia de Frutas
 
-Receta original manuscrita por Josefa Garzón Salcedo
+Receta original manuscrita por Josefa Garzón Salcedo.
+Adaptada según receta familiar.
 
 ### Ingredientes para 8 personas
 
@@ -32,7 +33,18 @@ En un recipiente grande o en pequeños individuales poner los trozos de frutas a
 Rociar con la mezcla de almibar y vino tinto, zumo de piña y algun licor si se desea.
 Ponerlo en la nevera para servirla muy fría.
 
-(DGG: Como licor soliamos usar Contreau)
+### Adaptación familiar
+
+Como licor final soliamos usar Contreau.
+
+Cuando el kiwi empezó a ser una fruta tan disponible como ahora,
+lo empezamos a usar como fruta indispensable para esta macedonia.
+
+A veces poníamos uvas partidas por la mitad,
+o gajos de mandarina partidos en dos.
+
+No solíamos ponerle melón, aunque alguna vez
+le pusimos sandia.
 
 
 \newpage
