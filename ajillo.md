@@ -1,5 +1,7 @@
 ## Ajillo
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ### Ingredientes para 5 personas
 
 - 2 pimientos rojos
