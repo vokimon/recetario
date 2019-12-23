@@ -1,5 +1,7 @@
 ## Conejo a la Vizcaina
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ### Ingredientes
 
 - 1 conejo
@@ -22,4 +24,4 @@ De tanto en tanto se mueve para que no se pegue.
 Cuando esta cocido se pone en una fuente con la salsa colada por encima.
 
 
-
+\newpage
