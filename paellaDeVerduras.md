@@ -1,6 +1,6 @@
 ## Paella de verduras
 
-![](images/paellaVerduras.jpg)
+\fotoplato{images/paellaVerduras.jpg}
  
 Autor: [Delantal de Alces](https://delantaldealces.com/paella-de-verduras/)
 

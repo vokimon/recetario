@@ -1,0 +1,31 @@
+---
+title: Recetario
+subtitle: Recetas familiares, aprendidas y inventadas
+author: David García Garzón
+copyright: 2020 David García Garzón
+documenclass: book
+babel-lang: spanish
+lang: es-ES
+#mainfont: Gentium Basic
+#mainfontoptions: BoldFont=Gentium Basic Bold
+#mainfontoptions: ItalicFont=Gentium Basic Italic
+#mainfontoptions: BoldItalicFont=Gentium Basic Bold Italic
+papersize: a4paper
+fontsize: 10pt
+geometry: margin=34mm
+header-includes:
+- \renewcommand*{\familydefault}{\sfdefault}
+- \usepackage{wrapfig}
+- \usepackage{graphicx}
+- \usepackage[utf8]{inputenc}
+- |
+  \newcommand{\fotoplato}[1]{%
+  \begin{wrapfigure}{r}{0.5\textwidth}%
+    \begin{center}%
+    \includegraphics[width=0.48\textwidth]{#1}%
+    \end{center}%
+  \end{wrapfigure}%
+  }
+
+---
+

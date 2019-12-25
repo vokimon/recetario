@@ -1,5 +1,7 @@
 ## Macedonia de Frutas
 
+\fotoplato{images/macedoniaDeFrutas.jpg}
+
 Receta original manuscrita por Josefa Garzón Salcedo.
 Adaptada según receta familiar.
 

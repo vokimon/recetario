@@ -1,6 +1,6 @@
 ## Pastel de Patatas
 
-![Con champiñones en vez de ternera](images/pastelDePatatasConChampiñones.jpg){width=90% style='float:right'}
+\fotoplato{images/pastelDePatatasConChampis.jpg}
 
 Receta familiar.
 Es un plato que le enseñó la "mestresa" del primer piso en el que vivió mi madre al llegar a Barcelona.

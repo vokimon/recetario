@@ -1,6 +1,6 @@
 ## Pescado con Salsa de Verduras
 
-![](images/pescadoConVerduras.jpg)
+\fotoplato{images/pescadoConVerduras.jpg}
 
 Receta propia
 
