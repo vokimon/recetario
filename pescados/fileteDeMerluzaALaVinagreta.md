@@ -4,13 +4,13 @@ Receta original manuscrita por Josefa Garzón Salcedo
 
 ### Ingredientes para 4 personas
 
-1 merluza o pescadilla de 800g
-1 taza de vino blanco
-limon
-700g de patatas medianas (clase inglesa)
-Salsa a la vinagreta
-tomates
-lechuga
+- 1 merluza o pescadilla de 800g
+- 1 taza de vino blanco
+- limon
+- 700g de patatas medianas (clase inglesa)
+- Salsa a la vinagreta
+- tomates
+- lechuga
 
 ### Preparación
 

@@ -1,6 +1,6 @@
 ## Mermelada de manzana
 
-Esta receta es del cole (Can Tusquets)
+Receta del cole (Can Tusquets) manuscrita por David
 
 ### Ingredientes
 

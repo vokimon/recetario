@@ -1,5 +1,7 @@
 ## Patatas en Souflé
 
+Receta original manuscrita por Josefa Garzón Salcedo
+
 ### Ingredientes
 
 - ikg de patatas
