@@ -1,9 +1,10 @@
-## Ajillo
+## Carne al Ajillo
 
 Receta original manuscrita por Josefa Garzón Salcedo
 
 ### Ingredientes para 5 personas
 
+- Carne (pollo, conejo, lomo...)
 - 2 pimientos rojos
 - 2 rodajas de pan frito
 - 1 cabeza de ajos
