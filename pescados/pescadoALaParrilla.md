@@ -1,7 +1,5 @@
 ## Pescado a la Parrilla
 
-\fotoplato{images/pescadoConVerduras.jpg}
-
 Receta original manuscrita por Josefa Garzón Salcedo
 
 ### Preparación
