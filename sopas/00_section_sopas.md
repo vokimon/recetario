@@ -1,5 +1,0 @@
-\newpage
-# Sopas
-
-
-\newpage
