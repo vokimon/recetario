@@ -1,5 +1,6 @@
 \newpage
 # Carnes
 
-\portadaCategoria{images/carnes.jpg}
+\portadaCategoria{images/carnes.png}
+
 \newpage

@@ -1,5 +1,6 @@
 \newpage
 # Guisos
 
-\portadaCategoria{images/guisos.jpg}
+\portadaCategoria{images/guisos.png}
+
 \newpage

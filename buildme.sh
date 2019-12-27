@@ -6,16 +6,12 @@ for category in $categories; do
 \\newpage
 # $(echo $category | sed 's/./\u&/')
 
-$( [ -f images/$category.jpg ] && echo "\\portadaCategoria{images/$category.jpg}" )
+$( [ -f images/$category.png ] && echo "\\portadaCategoria{images/$category.png}"  )
+
 \\newpage
 EOF
 done
 
-cat > 00_section_otros.md <<EOF
-\\newpage
-# Otros
-\\newpage
-EOF
 
-pandoc --toc --toc-depth=2 metadata.yaml README  */*md *md -o recetario.pdf
+pandoc --toc --toc-depth=2 metadata.yaml README  */*md -o recetario.pdf
 
