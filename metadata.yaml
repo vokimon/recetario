@@ -26,7 +26,15 @@ header-includes:
     \end{center}%
   \end{wrapfigure}%
   }
+- |
+  \newcommand{\portadaCategoria}[1]{%
+    \begin{center}%
+    \includegraphics[width=\textwidth]{#1}%
+    \end{center}%
+  }
+
 
 ---
 
 \newpage
+
