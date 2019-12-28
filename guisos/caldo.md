@@ -30,9 +30,9 @@ Se espera a que arranque a hervir y se tapa con la válvula.
 Hervir durante media hora.
 Abrir la olla y volcar el caldo a traves de un colador en otra olla.
 
-Según lo fuerte que se quiera se puede reherbir varias veces
+Según lo fuerte que se quiera se puede rehervir varias veces
 y sacar aún buen caldo.
-Si el primero esta bien herbido, se pueden sacar otros dos como mínimo.
+Si el primero esta bien hervido, se pueden sacar otros dos como mínimo.
 
 Si hay mucha grasa retirarla de la olla destino.
 

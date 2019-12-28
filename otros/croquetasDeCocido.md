@@ -23,7 +23,7 @@ nuestro caldo/cocido.
 
 Reaprovechar el material hervido del caldo.
 Importante que no queden huesos pequeños que se cuelen en la masa.
-Despues de varios herbidos, el material estará un poco soso asi que mejor compensar con sal y especies.
+Despues de varios hervidos, el material estará un poco soso asi que mejor compensar con sal y especies.
 
 Se pica el material con una picadora.
 Se fríe cebolla picada a gajos arrancados con el cuchillo en una sarten grande.

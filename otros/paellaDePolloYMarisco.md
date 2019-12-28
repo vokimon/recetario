@@ -38,7 +38,7 @@ Encima se echa el tomate triturado y se sofríe.
 Se hecha la curcuma y el pimento o la carterita.
 Se vuelven a echar los ingredientes que se revuelven con el sofrito.
 Se echa el arroz y se revuelve bien con el sofrito.
-Con un cazo se le va echando el agua hirbiendo de la olla.
+Con un cazo se le va echando el agua hirviendo de la olla.
 Un cazó por puñado de sal.
 
 Se hace, el arroz tapado, pinchando para que no se pegue pero evitando remover demasiado.
