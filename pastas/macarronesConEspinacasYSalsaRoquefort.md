@@ -1,5 +1,7 @@
 ## Macarrones con Espinacas y Salsa Roquefort
 
+Receta del recetario manuscrito de Josefa Garzón Salcedo
+
 ### Ingredientes
 
 - Macarrones
