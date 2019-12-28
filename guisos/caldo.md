@@ -34,6 +34,19 @@ Según lo fuerte que se quiera se puede reherbir varias veces
 y sacar aún buen caldo.
 Si el primero esta bien herbido, se pueden sacar otros dos como mínimo.
 
+Si hay mucha grasa retirarla de la olla destino.
+
+### Para congelar
+
+Tener en cuenta que el caldo cuando repose quedara en tres fases:
+Una de carbohidratos (patata, pulpas...)
+una de proteinas y grasas solubles,
+y otra encima de grasas liposolubles.
+
+Al congelar se quedará así y hay que dejar un espacio del 20%
+para la expansión del hielo.
+
+
 ### Con la sopa
 
 Para hacer sopa de fideos o de arroz o caldo solo,
@@ -43,10 +56,6 @@ y esperar a que se cuezan en el caldo antes de echar la pasta o el arroz.
 ### Para consome
 
 Cuando rompa a hervir, echar un huevo y remover.
-
-### Para albondigas
-
-
 
 
 \newpage
