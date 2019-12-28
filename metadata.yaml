@@ -10,9 +10,9 @@ lang: es-ES
 #mainfontoptions: BoldFont=Gentium Basic Bold
 #mainfontoptions: ItalicFont=Gentium Basic Italic
 #mainfontoptions: BoldItalicFont=Gentium Basic Bold Italic
-papersize: a4paper
-fontsize: 10pt
-geometry: margin=34mm
+papersize: a5
+fontsize: 11pt
+geometry: margin=20mm
 include-before:
 - \includepdf[pages=-]{portada}
 ---
