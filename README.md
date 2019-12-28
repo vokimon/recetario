@@ -3,7 +3,7 @@ Recetario
 
 Recopilación de recetas familiares, aprendidas y inventadas.
 
-Versión online: https://github.com/vokimon/recetario
+Versión online: [https://github.com/vokimon/recetario](https://github.com/vokimon/recetario)
 
 Este recetario empezó con la transcripción del recetario manuscrito de mi madre,
 Josefa Garzón Salcedo.
