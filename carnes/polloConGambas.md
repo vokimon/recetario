@@ -1,6 +1,6 @@
 ## Pollo con Gambas
 
-Receta original manuscrita por Josefa Garzón Salcedo
+Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Ingredientes
 
@@ -22,7 +22,7 @@ Cocer todo a fuego lento hasta que se reduzca el tomate.
 
 ## Pollo con Gambas (versión 2)
 
-Receta original manuscrita por Josefa Garzón Salcedo
+Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Preparación
 

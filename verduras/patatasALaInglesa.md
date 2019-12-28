@@ -1,6 +1,6 @@
 ## Patatas a la inglesa
 
-Receta original manuscrita por Josefa Garzón Salcedo
+Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 Estas patatas suelen servirse como guarnición de pescado.
 Usar patatas de clase inglesa un poco pequeñas y alargadas.

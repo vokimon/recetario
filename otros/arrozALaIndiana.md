@@ -1,6 +1,6 @@
 ## Arroz a la Indiana (o a la Criolla)
 
-Receta original manuscrita por Josefa Garzón Salcedo
+Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Ingredientes para 4 personas
 

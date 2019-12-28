@@ -1,6 +1,6 @@
 ## Pastel de Tortillas (frío)
 
-Receta original manuscrita por Josefa Garzón Salcedo
+Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Ingredientes para 3 personas
 
@@ -42,7 +42,7 @@ con trocitos de butifarra e igualmente puede hacerse con garbanzos.
 
 ## Pastel de Tortillas (caliente)
 
-Receta original manuscrita por Josefa Garzón Salcedo
+Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Ingredientes para 3 personas
 

@@ -1,6 +1,6 @@
 ## Polvorones
 
-Receta original manuscrita por Josefa Garzón Salcedo
+Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Ingredientes
 

@@ -2,7 +2,7 @@
 
 \fotoplato{images/macedoniaDeFrutas.jpg}
 
-Receta original manuscrita por Josefa Garzón Salcedo.
+Receta del recetario manuscrito de Josefa Garzón Salcedo.
 Adaptada según receta familiar.
 
 ### Ingredientes para 8 personas
