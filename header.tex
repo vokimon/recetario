@@ -24,6 +24,8 @@
 \end{wrapfigure}%
 }
 
+\definecolor{subsectioncolor}{HTML}{aa3300}
+
 % section formating for categories
 \titleformat{\section}[block]
 {
@@ -38,4 +40,9 @@
     \titleline*[c]{\titlerule*[1.2pc]{\textbullet}}%
     \addvspace{3em}%
 }]
+
+\titleformat{\subsection}[block]
+{
+    \color{red}
+}{\thesubsection}{1em}{\Large\bfseries\color{subsectioncolor}}
 
