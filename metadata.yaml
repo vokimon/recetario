@@ -14,7 +14,7 @@ papersize: a5
 fontsize: 11pt
 geometry: margin=20mm
 include-before:
-- \includepdf[pages=-]{portada}
+- \includepdf[pages={1,{}}]{portada}
 ---
 
 \newpage
