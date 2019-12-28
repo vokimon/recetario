@@ -1,4 +1,3 @@
-\newpage
 # Verduras
 
 \portadaCategoria{images/verduras.png}

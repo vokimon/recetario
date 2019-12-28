@@ -1,4 +1,3 @@
-\newpage
 # Guisos
 
 \portadaCategoria{images/guisos.png}
