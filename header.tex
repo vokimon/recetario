@@ -1,13 +1,21 @@
 \renewcommand*{\familydefault}{\sfdefault}
-\usepackage{titlesec}
-\usepackage{wrapfig}
-\usepackage{graphicx}
-\usepackage{pdfpages}
+\usepackage{pdfpages} % for the cover
+\usepackage{titlesec} % fancy headers
+\usepackage{wrapfig} % float figures
+%\usepackage{graphicx} % images
 
 % titlesec breaks hyperref, this is needed
 \newcommand{\sectionbreak}{\phantomsection}
 \newcommand{\subsectionbreak}{\phantomsection}
 
+% macro for category page
+\newcommand{\portadaCategoria}[1]{%
+  \begin{center}%
+  \includegraphics[width=\textwidth]{#1}%
+  \end{center}%
+}
+
+% macro for meal's photos
 \newcommand{\fotoplato}[1]{%
 \begin{wrapfigure}{r}{0.5\textwidth}%
   \begin{center}%
@@ -15,12 +23,8 @@
   \end{center}%
 \end{wrapfigure}%
 }
-\newcommand{\portadaCategoria}[1]{%
-  \begin{center}%
-  \includegraphics[width=\textwidth]{#1}%
-  \end{center}%
-}
 
+% section formating for categories
 \titleformat{\section}[block]
 {
     \addtolength{\titlewidth}{19pc}%
