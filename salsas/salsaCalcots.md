@@ -16,4 +16,13 @@ Receta de un restaurante de Valls
 - 2 o 3 tazas pequeñas de agua (se añadirà segun espese)
 
 
+### Preparación
+
+Poner la cabeza de ajos y los tomates al horno.
+Tostar el pan.
+Picar todos los ingredientes en un recipiente para batidora.
+Batirlos echándole aceite hasta que queden uniforme y cuajado.
+
+
+\newpage
 
