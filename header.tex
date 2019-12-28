@@ -1,0 +1,37 @@
+\renewcommand*{\familydefault}{\sfdefault}
+\usepackage{titlesec}
+\usepackage{wrapfig}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+
+% titlesec breaks hyperref, this is needed
+\newcommand{\sectionbreak}{\phantomsection}
+\newcommand{\subsectionbreak}{\phantomsection}
+
+\newcommand{\fotoplato}[1]{%
+\begin{wrapfigure}{r}{0.5\textwidth}%
+  \begin{center}%
+  \includegraphics[width=0.48\textwidth]{#1}%
+  \end{center}%
+\end{wrapfigure}%
+}
+\newcommand{\portadaCategoria}[1]{%
+  \begin{center}%
+  \includegraphics[width=\textwidth]{#1}%
+  \end{center}%
+}
+
+\titleformat{\section}[block]
+{
+    \addtolength{\titlewidth}{19pc}%
+    \Large\color{red}%
+    \titleline*[c]{\titlerule*[.8pc]{\textbullet}}%
+    \addvspace{6pt}%
+    \filcenter\Large
+}{\thesection}{10em}{\Huge\color{orange}}[{%
+    \addvspace{6pt}%
+    \Huge\color{red}%
+    \titleline*[c]{\titlerule*[1.2pc]{\textbullet}}%
+    \addvspace{3em}%
+}]
+
