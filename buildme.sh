@@ -8,7 +8,6 @@ for category in $categories; do
 
 $( [ -f images/$category.png ] && echo "\\portadaCategoria{images/$category.png}"  )
 
-\\newpage
 EOF
 done
 

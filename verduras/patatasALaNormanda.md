@@ -28,4 +28,4 @@ junto con el vino, poniendolas al horno unos 12 minutos.
 Una vez codidas las patatas volcarlas en una fuete de servir.
 Colocar las salchichas encima en forma de estrellas y espolvorear con perejil picado.
 
-\newpage
+

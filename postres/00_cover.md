@@ -2,4 +2,3 @@
 
 \portadaCategoria{images/postres.png}
 
-\newpage

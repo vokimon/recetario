@@ -24,6 +24,6 @@ Al sacarlas de la sarten se pasan por un plato de azúcar.
 
 Esperar a que enfríen antes de servir.
 
-\newpage
+
 
 

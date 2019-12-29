@@ -20,4 +20,4 @@ Se añade la nata líquida y el queso y se deja que vaya haciendo salsa.
 
 Se escurren bien los macarrones, se vuelven al cazo y se mezcla la salsa encima.
 
-\newpage
+

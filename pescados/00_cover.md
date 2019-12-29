@@ -2,4 +2,3 @@
 
 \portadaCategoria{images/pescados.png}
 
-\newpage

@@ -19,4 +19,4 @@ Pasado el tiempo, quitar la pasta raspandola.
 Se coloca el pollo en una fuente con aceite
 y se hornea durante 25 o 30 minutos.
 
-\newpage
+

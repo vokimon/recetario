@@ -21,6 +21,6 @@ Luego dejarlo en la nevera.
 En el momento de servir ponerlo en la cascara del melón poniendo la fruta alternada.
 Pueden ponerse trocitos de hielo alrededor del melón.
 
-\newpage
+
 
 

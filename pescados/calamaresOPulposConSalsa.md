@@ -28,4 +28,4 @@ Al sacarlas se espolvorean con perejil picado.
 Si se desea, se puede agregar unos mejillones.
 
 Nota: Al sazonar asegurarse de que no sean salados los calamares.
-\newpage
+

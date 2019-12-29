@@ -17,5 +17,5 @@ cuando esten bien rosadas se sacan y en el mismo aceite se frien las judias con 
 Se saca de la sartén y se pone en una fuente, con los trozos de butifarra y el lomo por encima.
 Se sirve bien caliente.
 
-\newpage
+
 

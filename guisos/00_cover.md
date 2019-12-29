@@ -2,4 +2,3 @@
 
 \portadaCategoria{images/guisos.png}
 
-\newpage

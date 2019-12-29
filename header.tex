@@ -5,8 +5,8 @@
 %\usepackage{graphicx} % images
 
 % titlesec breaks hyperref, this is needed
-\newcommand{\sectionbreak}{\phantomsection}
-\newcommand{\subsectionbreak}{\phantomsection}
+\newcommand{\subsectionbreak}{\clearpage\phantomsection}
+\newcommand{\sectionbreak}{\clearpage\phantomsection}
 
 % macro for category page
 \newcommand{\portadaCategoria}[1]{%
@@ -45,4 +45,5 @@
 {
     \color{red}
 }{\thesubsection}{1em}{\Large\bfseries\color{subsectioncolor}}
+
 

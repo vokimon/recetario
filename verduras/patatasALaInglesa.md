@@ -25,6 +25,6 @@ La proporción de la mezcla seria una cucharada de agua, otra de limón, 50g de 
 Se espolvorean ligeramente con perejil.
 
 
-\newpage
+
 
 

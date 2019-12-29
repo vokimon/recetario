@@ -2,4 +2,3 @@
 
 \portadaCategoria{images/salsas.png}
 
-\newpage

@@ -29,5 +29,5 @@ Hacer una salsa a la vinagreta especial.
 Colocar el pescado y las patatas, frios en una fuente de servir.
 Espolvorear con perejil y adornar con alguna rodaja de tomate y lechuga.
 
-\newpage
+
 

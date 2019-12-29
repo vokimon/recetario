@@ -23,7 +23,7 @@ Agregar el conejo y rociarlo con el coñac.
 Tapar la cazuela y dejar cocer lentamente hasta que este tierno.
 Minutos antes de terminar la cocción se le añadiran los champiñones salteados.
 
-\newpage
+
 
 
 

@@ -25,6 +25,6 @@ Los adornos solian ser:
 - Media guinda
 - Coco rallado
 
-\newpage
+
 
 

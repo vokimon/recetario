@@ -24,4 +24,4 @@ con medio litro de leche.
 
 Se rellena la cáscara, se reboza con huevo y pan rayado y se fríe.
 
-\newpage
+

@@ -19,4 +19,4 @@ Se fríe la carne con la cabeza de ajos y el laurel.
 Se le hecha la picada con todo lo anterior.
 Si está dura se deja hervir añadiendo un poco de agua.
 
-\newpage
+

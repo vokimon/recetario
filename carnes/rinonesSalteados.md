@@ -26,4 +26,4 @@ Cocer lentamente unos 20 minutos aprox.
 Servir los riñones en una fuente, espolvoreados con perejil, poniendo alrededor un cordon de patatas duquesa o de arroz a la indiana.
 
 
-\newpage
+

@@ -18,5 +18,5 @@ Sazonar con un poco de pimiena blanca.
 A continuacion, remover vivamente sobre el fuego unos 2 minutos.
 
 
-\newpage
+
 

@@ -32,5 +32,5 @@ Cubrir con nata adornando con la manga pastelera.
 Poner fresas pequeñas encima.
 Dejarlo en la nevera para servirlo completamente frío.
 
-\newpage
+
 

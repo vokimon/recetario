@@ -22,4 +22,4 @@ Macacar el ajo crudo y el frito con el pimiento rojo y agregar a la olla.
 Dejar hervir hasta que la carne cueza y añadir los fideos.
 
 
-\newpage
+

@@ -2,4 +2,3 @@
 
 \portadaCategoria{images/pastas.png}
 
-\newpage

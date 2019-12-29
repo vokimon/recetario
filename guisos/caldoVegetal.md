@@ -22,4 +22,4 @@ Luego se pasa por el colador chino y queda asi listo para lo que se desee.
 
 Nota: En el caldo vegetal pueden agregarse toda clase de verdura.
 
-\newpage
+

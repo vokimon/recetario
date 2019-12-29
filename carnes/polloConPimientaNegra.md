@@ -21,4 +21,4 @@ Este pollo se hace o bien al ast si se dispone de el
 o al horno rociando de vez en cuando con el jugo que vaya soltando.
 
 
-\newpage
+

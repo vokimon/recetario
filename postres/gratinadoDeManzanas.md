@@ -29,6 +29,6 @@ Al sacarlas dejarlas enfriar un poco y luego espolvorearlas con azucar lustre.
 Servir un poco caliente.
 
 
-\newpage
+
 
 

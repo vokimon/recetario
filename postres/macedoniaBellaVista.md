@@ -37,4 +37,4 @@ Nota: No tener muchas horas en el molde los pasteles hechoscon gelatina dentro d
 Es mejor desmoldarlos apenas hayas cuajado pudiendo dejarse preparados para el día siguiente.
 
 
-\newpage
+

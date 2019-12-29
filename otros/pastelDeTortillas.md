@@ -38,7 +38,7 @@ Nota: La tortilla se presta a hacer mucha variedad con distiintos rellenos, que 
 Se puede mencionar alguna más como la tortilla de judias secas (hervidas y fritas ligeramente)
 con trocitos de butifarra e igualmente puede hacerse con garbanzos.
 
-\newpage
+
 
 ## Pastel de Tortillas (caliente)
 
@@ -93,4 +93,4 @@ Después cubrir con ella las tortillas, espolvorear con queso rallado y gratinar
 
 
 
-\newpage
+

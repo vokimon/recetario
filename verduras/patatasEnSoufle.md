@@ -28,5 +28,5 @@ mezclando al mismo tiempo que la mantequilla foiegras o sobrasada.
 Unos 50g por la proporcion indicada.
 
 
-\newpage
+
 

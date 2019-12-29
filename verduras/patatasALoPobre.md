@@ -22,4 +22,4 @@ Una vez están cocidas, retirar las patatas escurriendo bien el aceite.
 Hay quien frie tambien chorizo o le echa después un huevo revuelto,
 pero si te das esos lujos, muy de pobre, muy de pobre no son.
 
-\newpage
+

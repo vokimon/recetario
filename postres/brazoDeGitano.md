@@ -26,4 +26,4 @@ Colocar el biscuit y taparlo con otro trapo húmedo.
 (Se enrolla mejor con el trapo)
 
 
-\newpage
+

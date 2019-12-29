@@ -18,4 +18,4 @@ Este arroz puede comerse sin mas preparacion,
 acompañado con alguna salsa o como guarnicion y acompañamiento de algún plato.
 
 
-\newpage
+

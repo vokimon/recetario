@@ -43,5 +43,5 @@ los comensales van a querer probar cada combinación.
 Presentar en bandeja.
 
 
-\newpage
+
 

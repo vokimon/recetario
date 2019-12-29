@@ -44,4 +44,4 @@ Añadir agua hasta que cubra unos dos o tres dedos por encima segun la cantidad.
 Esperar a la ebullición y tapar con la válvula.
 Cocer en expres unos 15 minutos.
 
-\newpage
+

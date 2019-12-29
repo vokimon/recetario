@@ -46,4 +46,4 @@ Si es el caso, tocará saltarse las normas y, un par de veces durante la cocció
 Cuando ya no quede caldo y el arroz esté en su punto, apagamos el fuego y servimos.
 
 
-\newpage
+

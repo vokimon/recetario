@@ -33,5 +33,5 @@ Colocar la mezcla en la patata y enrollar con ayuda del paño.
 Una vez enrollado poner en la fuente.
 Recubrirlo con salsa de tomate y adornar con huevo duro a rodajas finas.
 
-\newpage
+
 

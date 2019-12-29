@@ -26,4 +26,4 @@ Unos 5 minutos antes de quitarlas del fuego se le hecha la butifara cortada a ro
 Cuando los fideos estan cocidos se sirven enseguida.
 Si no se hace asi, los fideos se beben todo el suco que quedan como una masa pastosa.
 
-\newpage
+

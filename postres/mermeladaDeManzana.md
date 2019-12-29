@@ -16,6 +16,6 @@ Se corta la manzana a trocitos pequeños.
 Se pone las manzanas, el azúcar y el agua a herbir en una olla.
 Se cuece durante 45 minutos.
 
-\newpage
+
 
 

@@ -22,5 +22,5 @@ Se remueve de cuando en cuando con una cuchara de madera.
 Se puede comer solo o para acompañar patatas, pollo, bacalao, costillas...
 
 
-\newpage
+
 

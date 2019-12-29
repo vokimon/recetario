@@ -25,6 +25,6 @@ A continuación, ota capa de cebolla y patatas fritas.
 Se pone en el horno y se deja cocer 40 minutos.
 
 
-\newpage
+
 
 

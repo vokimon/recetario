@@ -26,4 +26,4 @@ No me acuerdo cuanto había que hornearlo.
 
 Haciamos variaciones picando a la masa chocolate, rayando limon o con coco rayado.
 
-\newpage
+

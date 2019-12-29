@@ -31,6 +31,6 @@ manzana, pasas, platano y en salado con verdura,
 cromesquis...
 
 
-\newpage
+
 
 

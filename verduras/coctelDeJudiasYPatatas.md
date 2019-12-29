@@ -28,4 +28,4 @@ y otra de udias secas.
 
 Para aderezar, acompañar de una [salsa verde](../salsas/salsaVerde)
 
-\newpage
+

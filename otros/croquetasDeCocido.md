@@ -44,6 +44,6 @@ Para freirlas, el aceite tiene que estar muy caliente.
 
 
 
-\newpage
+
 
 

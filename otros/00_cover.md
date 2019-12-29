@@ -2,4 +2,3 @@
 
 \portadaCategoria{images/otros.png}
 
-\newpage

@@ -56,5 +56,5 @@ Sin abrir el gratinador se nos va dorando paulatinamente.
 La cocción normalmente es de unos 30 minutos.
 
 
-\newpage
+
 

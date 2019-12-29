@@ -2,4 +2,3 @@
 
 \portadaCategoria{images/verduras.png}
 
-\newpage

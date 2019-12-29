@@ -31,7 +31,7 @@ y remover de vez en cuando moviendo la cazuela.
 Dejar coder hasta que esten bien tiernas.
 Al momento de servir ponerlas en una fuente con las butifarras encima a rodajas.
 
-\newpage
+
 
 
 

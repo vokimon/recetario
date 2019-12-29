@@ -18,7 +18,7 @@ Una vez sazonada, agregar las anchoas picadas, si es salada lavarla bien antes.
 Dar unos hervores y añadir la mezcla de la yema de huevo con la leche.
 Cocer unos segundos mas y retirar.
 
-\newpage
+
 
 ## Salsa Crema
 
@@ -40,7 +40,7 @@ Retirar del fuego y agregar la yema de huevo.
 Remover inmediatamente con un batidor.
 Ponerla al fuego durante unos seguindos, retirarla y añadir la crema de la leche o la nata.
 
-\newpage
+
 
 ## Salsa Aurora
 
@@ -61,5 +61,5 @@ Dejas hervir un poco, removiendo con el batidor.
 Fuera ya del fuego, se le añadiran los 50g de mantequilla restantes.
 
 
-\newpage
+
 

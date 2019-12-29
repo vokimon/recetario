@@ -24,5 +24,5 @@ Picar todos los ingredientes en un recipiente para batidora.
 Batirlos echándole aceite hasta que queden uniforme y cuajado.
 
 
-\newpage
+
 

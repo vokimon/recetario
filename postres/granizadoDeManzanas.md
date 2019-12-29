@@ -26,4 +26,4 @@ meterlas en el horno unos 30 minutos aproximadamente hasta que queden las manzan
 Al sacarlas, dejarlas enfriar un poco y luego espolvorearlas con azúcar lustre.
 Servir un poco calientes.
 
-\newpage
+
