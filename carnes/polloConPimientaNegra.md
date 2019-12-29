@@ -5,7 +5,7 @@ Receta del recetario manuscrito de Josefa Garzón Salcedo
 ### Ingredientes
 
 - Un pollo de 1kg
-- Acieite
+- Aceite
 - Sal
 - Zumo de limón
 - Pimienta molida
