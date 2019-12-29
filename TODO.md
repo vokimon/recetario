@@ -4,13 +4,11 @@ Platos que aún no he tenido tiempo de pasar.
 
 ### Del recetario
 
-- Bizcocho de Anís
 - Pestiños
 - Castañas Glaseadas
 - Volovanes (Voul-au-vents) mejicanos
 - Paquetes de Lombarda
 - Crema Cremosa de Calabaza
-- Pavo en Pepitorio
 
 ### Familiares
 
@@ -23,7 +21,6 @@ Platos que aún no he tenido tiempo de pasar.
 - Bolones (Castañas con Canela)
 - Bistec a la Plancha
 - Carne de Tuper (Lomo Rebozado)
-- Champiñones al Ajo y Perejil
 - Gazpacho Ajo Blanco
 - Gazpacho con Pan
 - Gazpacho Andaluz (receta papa)

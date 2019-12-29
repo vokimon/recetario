@@ -6,6 +6,7 @@
 - Nuevas recetas familiares
 	- remojon
 	- mocarracas
+	- champisAlAjoYPerejil
 	- pechugaALaPlancha
 	- roscosDeVino
 - Nuevas recetas propias
