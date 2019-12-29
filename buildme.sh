@@ -12,6 +12,6 @@ EOF
 done
 
 
-pandoc --toc --toc-depth=2 -H header.tex metadata.yaml README.md  */*md TODO -s -o recetario.pdf
+pandoc --toc --toc-depth=2 -H header.tex metadata.yaml README.md  */*md TODO.md CHANGES.md LICENCIA.md -s -o recetario.pdf
 
 

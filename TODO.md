@@ -4,7 +4,6 @@ Platos que aún no he tenido tiempo de pasar.
 
 ### Del recetario
 
-- Bizcocho de Navidad Aleman con Fruta Escarchada
 - Bizcocho de Anís
 - Pestiños
 - Castañas Glaseadas
