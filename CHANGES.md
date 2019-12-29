@@ -17,6 +17,7 @@
 	- tartaDeLimon
 	- bizcochoDeYogurt
 	- bizcochoDeNavidadAlemanConFrutaEscarchada
+	- panuelosDeQuesoDeCabra
 - Nuevas recetas del recetario de José
 	- bizcochoDeChocolate
 	- arrozConBacalao

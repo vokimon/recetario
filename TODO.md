@@ -7,7 +7,6 @@ Platos que aún no he tenido tiempo de pasar.
 - Bizcocho de Anís
 - Pestiños
 - Castañas Glaseadas
-- Pañuelos de Queso de Cabra
 - Volovanes (Voul-au-vents) mejicanos
 - Paquetes de Lombarda
 - Crema Cremosa de Calabaza
