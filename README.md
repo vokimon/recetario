@@ -1,7 +1,7 @@
 Recetario
 =========
 
-Recopilación de recetas familiares, aprendidas y inventadas.
+Recopilación de recetas familiares, aprendidas e inventadas.
 
 Versión online: [https://github.com/vokimon/recetario](https://github.com/vokimon/recetario)
 
