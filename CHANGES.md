@@ -1,5 +1,11 @@
 # Cambios
 
+### v0.0.4 ????-??-??
+
+- Nuevas recetas familiares
+	- Sepia sofrita
+
+
 ### v0.0.3 2019-12-30
 
 - Apartados con los cambios, las recetas pendientes y la licencia
