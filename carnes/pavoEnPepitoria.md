@@ -1,5 +1,7 @@
 ## Pavo en Pepitoria
 
+Receta del recetario manuscrito de Josefa Garzón Salcedo
+
 ### Ingredientes
 
 - Un pavo entero
