@@ -30,7 +30,6 @@ Platos que aún no he tenido tiempo de pasar.
 - Potaje de Garbanzos de Semana Santa
 - Arroz con leche
 - Natillas
-- Rodajas de naranja a la canela
 - Cebolla caramelizada
 
 ### Propias y aprendidas
