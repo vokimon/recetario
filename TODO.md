@@ -34,10 +34,8 @@ Platos que aún no he tenido tiempo de pasar.
 ### Propias y aprendidas
 
 - Pasta al Funghi
-- Pasta a la Vokiñesa
 - Pasta Hija de Puta
 - Pasta con Berenjena
-- Huevos a lo Vago
 - Tortilla de Cebolla
 - Tortilla de Lentejas
 - Espanacauada

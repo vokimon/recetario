@@ -1,6 +1,6 @@
 # Cambios
 
-### v0.0.3 ????-??-??
+### v0.0.3 2019-12-30
 
 - Apartados con los cambios, las recetas pendientes y la licencia
 - Correcciones ortográficas
@@ -14,7 +14,9 @@
 	- Rodajas de Najanja a la Canela
 	- Cebolla caramelizada
 - Nuevas recetas propias
+	- Pasta a la Vokiñesa
 	- Patatas a lo Vago
+	- Huevos a lo Vago
 - Nuevas recetas del recetario de Fina
 	- Salsa Calcots version 2
 	- Pavo en Pepitoria

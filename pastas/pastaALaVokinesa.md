@@ -1,9 +1,10 @@
-## Salsa Vokiñesa
+## Pasta a la Salsa Vokiñesa
 
 Receta propia. Variación de la boloñesa con algo mas de verdura y queso.
 
 ### Ingredientes
 
+- Pasta a elegir (tallarines, espaghetti, macarrones...)
 - 400g de carne de ternera picada dos veces
 - 1 bote de tomate triturado ()
 - 1 cebolla
@@ -36,6 +37,7 @@ Echar el tomate frito, mezclar, tapar y esperar que se fría.
 Echar el queso, mezclarlo para que se derrita y homogenize,
 la salsa ha de pasar de un color rojo a uno mas marron claro.
 
+Cocer la pasta, escurrir bien y mezclarla con la salsa.
 
 
 
