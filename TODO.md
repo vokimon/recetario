@@ -28,7 +28,6 @@ Platos que aún no he tenido tiempo de pasar.
 - Tortilla de champiñones
 - Tortilla de espinacas
 - Potaje de Garbanzos de Semana Santa
-- Boquerones en vinagre
 - Arroz con leche
 - Natillas
 - Rodajas de naranja a la canela

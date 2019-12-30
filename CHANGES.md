@@ -7,6 +7,7 @@
 	- remojon
 	- mocarracas
 	- champisAlAjoYPerejil
+	- boqueronesEnVinagre
 	- pechugaALaPlancha
 	- roscosDeVino
 - Nuevas recetas propias
