@@ -2,7 +2,7 @@
 
 Receta manuscrita de José García Camas
 
-## Preparación
+### Preparación
 
 Se fríe la cebolla, el ajo, el pimiento y el tomate.
 A continuación se añade los trocitos de bacalao y bastantes patatas.
