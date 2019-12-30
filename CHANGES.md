@@ -2,28 +2,31 @@
 
 ### v0.0.3 ????-??-??
 
+- Apartados con los cambios, las recetas pendientes y la licencia
 - Correcciones ortográficas
 - Nuevas recetas familiares
-	- remojon
-	- mocarracas
-	- champisAlAjoYPerejil
-	- boqueronesEnVinagre
-	- pechugaALaPlancha
-	- roscosDeVino
+	- Remojón
+	- Mocarracas
+	- Champis al Ajo y Perejil
+	- Boquerones en Vinagre
+	- Pechuga a la Plancha
+	- Roscos de Vino
+	- Rodajas de Najanja a la Canela
+	- Cebolla caramelizada
 - Nuevas recetas propias
-	- patatasALoVago
+	- Patatas a lo Vago
 - Nuevas recetas del recetario de Fina
-	- salsaCalcots version 2
-	- pavoEnPepitoria
-	- panEnCasa
-	- tartaDeLimon
-	- bizcochoDeYogurt
-	- bizcochoDeNavidadAlemanConFrutaEscarchada
-	- panuelosDeQuesoDeCabra
+	- Salsa Calcots version 2
+	- Pavo en Pepitoria
+	- Pan en Casa
+	- Tarta de Limon
+	- Bizcocho de Yogurt
+	- Bizcocho de Navidad Alemán con Fruta Escarchada
+	- Panuelos de Queso de Cabra
 - Nuevas recetas del recetario de José
-	- bizcochoDeChocolate
-	- arrozConBacalao
-	- filetesEnSalsa
+	- Bizcocho de Chocolate
+	- Arroz con Bacalao
+	- Filetes en Salsa
 
 ### v0.0.2 2019-12-29
 
