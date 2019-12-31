@@ -7,16 +7,17 @@ documenclass: book
 babel-lang: spanish
 lang: es-ES
 rights: © 2019 David García Grarzón, CC BY-SA
+fontsize: 11pt
+mainfont: Latin Modern Sans
 #mainfont: Gentium Basic
 #mainfontoptions: BoldFont=Gentium Basic Bold
 #mainfontoptions: ItalicFont=Gentium Basic Italic
 #mainfontoptions: BoldItalicFont=Gentium Basic Bold Italic
 papersize: a5
-fontsize: 11pt
+colorlinks: true
+linkcolor: darkgray
 geometry: margin=20mm
 include-before:
-- \includepdf[pages={1,{}}]{portada}
+- \portada{portada}
 ---
-
-\newpage
 

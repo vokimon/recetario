@@ -1,0 +1,103 @@
+\setuplayout[
+	width=middle,
+	backspace=20mm,
+	topspace=18mm,
+	bottom=0mm,
+	footer=10mm,
+	header=0mm,
+    ]
+%\showframe
+
+% macro for cover
+\define[1]\portada{%
+	\startpagefigure[#1][page=1]\stoppagefigure
+	\page[empty]%
+}
+
+% macro for category page
+\define[1]\portadaCategoria{%
+	{\externalfigure[#1][width=\textwidth]}%
+}
+
+% macro for meal's photos
+\define[1]\fotoplato{%
+	\placefigure[right,none][]{}%
+	{\externalfigure[#1][width=0.5\textwidth]}%
+}
+
+% macro for cc license
+\define[1]\cclicensetag{%
+	\startalignment[center]
+	\useURL[cclicense][http://creativecommons.org/licenses/#1/4.0/][]
+	[{\externalfigure[images/#1]}]
+	\from[cclicense]
+	\stopalignment
+}
+\definecolor[subsectioncolor][h=aa3300]
+\definealternativestyle [head:large] [\ssd\bigger\bold]   []
+\definealternativestyle [tituloreceta] [\ssb\bold]   []
+
+\define\smallbullets{%
+\startalignment[center]
+{\color[red]{\dorecurse{25}{\textbullet}}}
+\stopalignment
+}
+\define\bullets{%
+\startalignment[center]
+{\tfd\color[red]{\dorecurse{12}{\textbullet}}}
+\stopalignment
+}
+
+
+\setuphead
+	[section,title]
+	[
+		%interlinespace=off,
+		page=makeup,
+		textcolor=orange,
+		align=center,
+		style={head:large},
+		before={\nowhitespace\smallbullets},
+		after={\bullets\blank[5mm]},
+	]
+
+\setuphead
+	[subsection]
+	[
+		page=yes,
+		continue=no,
+		textcolor=subsectioncolor,
+		style=tituloreceta,
+		align=right,
+		before={\blank[4mm]},
+		after={\whitespace},
+	]
+
+\setuphead
+	[subsubsection]
+	[
+		style=bf,
+		page=no,
+		textcolor=black,
+		aligntitle=float,
+	]
+
+\setupheadtext[content=Índice]
+\setupcombinedlist[content][list={chapter,section,subsection}]
+\setuplist[section][
+	distance=3cm,
+	style=bold,
+	before=\whitespace,
+	after={\nowhitespace},
+	]
+\setuplist[subsection][
+	margin=6mm,
+	alternative=c,
+	distance=15ex,
+	topdistance=0mm,
+	after=\nowhitespace,
+	]
+
+\setupitemize[margin=5mm]
+% TODO: Titulos recetas en bold
+

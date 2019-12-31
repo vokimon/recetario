@@ -1,11 +1,11 @@
 # Licencia
 
-[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-](http://creativecommons.org/licenses/by-sa/4.0/){rel="license"}
 Este obra está bajo una [llicencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/){rel="license}.
 
-Esto es un resumen inteligible para humanos (y no un sustituto) de la licencia
-disponible aquí: [creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/)
+\cclicensetag{by-sa}
+
+A continuación se resume, sin substituirla, la licencia legal,
+disponible integra en [https://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ### Eres libre de

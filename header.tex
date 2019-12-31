@@ -8,6 +8,11 @@
 \newcommand{\subsectionbreak}{\clearpage\phantomsection}
 \newcommand{\sectionbreak}{\clearpage\phantomsection}
 
+% macro for cover
+\newcommand{\portada}[1]{%
+	\includepdf[pages={1,{}}]{#1}%
+}
+
 % macro for category page
 \newcommand{\portadaCategoria}[1]{%
   \begin{center}%
@@ -21,6 +26,15 @@
   \centering
   \includegraphics[width=0.48\textwidth]{#1}%
 \end{wrapfigure}%
+}
+
+% macro for cc license
+\newcommand{\cclicensetag}[1]{%
+	\begin{center}%
+		\href{http://creativecommons.org/licenses/#1/4.0/}{
+			\includegraphics{images/#1}%
+		}
+	\end{center}%
 }
 
 \definecolor{subsectioncolor}{HTML}{aa3300}
@@ -37,7 +51,7 @@
     \addvspace{6pt}%
     \Huge\color{red}%
     \titleline*[c]{\titlerule*[1.2pc]{\textbullet}}%
-    \addvspace{2em}%
+    \addvspace{1em}%
 }]
 
 \titleformat{\subsection}[block]
