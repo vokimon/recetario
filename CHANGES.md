@@ -1,14 +1,15 @@
 # Cambios
 
-### v0.0.4 ????-??-??
+### v0.0.4 2020-01-01
 
-- Uso un nuevo generador (ConTeXt), mas configurable, para el texto flote bien alrededor de las fotos
 - Nuevas recetas familiares
 	- Sepia sofrita
 	- Sepia a la plancha al ajo y perejil
 - Fotos de platos
 	- Canalones a la Catalana
 	- Huevos Rellenos
+- Uso un nuevo generador (ConTeXt), más configurable
+- Con el cambio de generador el texto flota correctamente alrededor de las fotos
 
 ### v0.0.3 2019-12-30
 
