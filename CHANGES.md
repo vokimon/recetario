@@ -4,6 +4,7 @@
 
 - Nuevas recetas familiares
 	- Sepia sofrita
+	- Sepia a la plancha al ajo y perejil
 
 
 ### v0.0.3 2019-12-30

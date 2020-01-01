@@ -24,7 +24,6 @@ Platos que aún no he tenido tiempo de pasar.
 - Gazpacho Ajo Blanco
 - Gazpacho con Pan
 - Gazpacho Andaluz (receta papa)
-- Sepia a la plancha al ajo y perejil
 - Tortilla de patatas
 - Tortilla de champiñones
 - Tortilla de espinacas
