@@ -1,5 +1,7 @@
 ## Huevos Rellenos
 
+\fotoplato{images/huevosRellenos}
+
 Receta familiar.
 Otro plato que nos enseñaron de pequeños.
 Fácil y riquísimo.

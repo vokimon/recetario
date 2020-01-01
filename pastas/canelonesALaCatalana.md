@@ -1,5 +1,7 @@
 ## Canelones a la catalana
 
+\fotoplato{images/canalonesALaCatalana}
+
 Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Ingredientes para 4 o 5 personas
