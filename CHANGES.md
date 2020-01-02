@@ -10,6 +10,7 @@
 	- Huevos Rellenos
 - Uso un nuevo generador (ConTeXt), más configurable
 - Con el cambio de generador el texto flota correctamente alrededor de las fotos
+- Reducidas las imagenes para que ocupen menos
 
 ### v0.0.3 2019-12-30
 
