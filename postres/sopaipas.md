@@ -4,11 +4,11 @@ Receta típica de La Victoria (Córdoba) recogida por Ana María Maestre.
 
 ### Ingredientes
 
-1/4kg de harina de trigo
-1/2 sobre de levadura
-agua tíbia (37ºC)
-sal
-aceite AOVE
+- 1/4kg de harina de trigo
+- 1/2 sobre de levadura
+- agua tíbia (37ºC)
+- sal
+- aceite oliva virgen extra
 
 ### Preparación
 
