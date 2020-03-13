@@ -1,5 +1,13 @@
 # Cambios
 
+### v0.0.5 202?-??-??
+
+- Nuevas recetas familiares
+	- Sopaipas (dictada por Ana Maestre)
+- Nuevas recetas propias
+	- Pollo a la salsa de naranja
+	- Spaghetti Saporo
+
 ### v0.0.4 2020-01-01
 
 - Nuevas recetas familiares
