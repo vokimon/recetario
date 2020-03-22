@@ -9,7 +9,7 @@
 - mantequilla
 - 2 cucharadas soperas de harina
 - medio litro de leche
-- pan rayado
+- pan rallado
 
 ### Preparación
 
@@ -22,6 +22,6 @@ Se pone en la sarten con un poquito de mantequilla.
 Se añade la harina (2 cucharadas soperas)
 con medio litro de leche.
 
-Se rellena la cáscara, se reboza con huevo y pan rayado y se fríe.
+Se rellena la cáscara, se reboza con huevo y pan rallado y se fríe.
 
 

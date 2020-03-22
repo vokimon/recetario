@@ -24,6 +24,6 @@ Aquí no hay nada más escrito pero me acuerdo que se que dejaba la masa
 en una lamina de dedo y medio y se recortaban los polvorones con un vaso.
 No me acuerdo cuanto había que hornearlo.
 
-Haciamos variaciones picando a la masa chocolate, rayando limon o con coco rayado.
+Haciamos variaciones picando a la masa chocolate, rayando limon o con coco rallado.
 
 

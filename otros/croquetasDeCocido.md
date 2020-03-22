@@ -37,7 +37,7 @@ Se repite el proceso hasta que quede una masa compacta.
 Se deja la masa reposar unas horas con un trapo en la nevera.
 
 Se da forma a las croquetas con la mano, se bañan en huevo batido
-y en pan rayado.
+y en pan rallado.
 Se pueden guardar asi para congelar.
 
 Para freirlas, el aceite tiene que estar muy caliente.
