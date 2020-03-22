@@ -13,10 +13,10 @@ Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Preparación
 
-Escoger las espinacas sin troncos.
+Escoger las espinacas (hojas sin tronco) y lavarlas bien.
 Cocerlas en agua hirviendo 6 minutos.
 Refrescarlas y escurrirlas.
-Esprimirlas con las manos.
+Esprimirlas con las manos para que saquen el jugo.
 Luego picarlas finas.
 Hacer una salsa bechamel con 20g de mantequilla,
 20g de harina y leche.
