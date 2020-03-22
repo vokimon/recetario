@@ -1,6 +1,6 @@
 # Cambios
 
-### v0.0.5 202?-??-??
+### v0.0.5 2020-??-??
 
 - Nuevas recetas familiares
 	- Sopaipas (dictada por Ana Maestre)
@@ -12,7 +12,9 @@
 	- Macarrones al Gratén
 	- Macarrones a la Dominicana
 	- Tronco de Patatas Frío
+	- Tronco de Patatas con Espinacas
 	- Tronco de Patatas de Carne
+	- Patatas con Huevos Encapotados
 
 ### v0.0.4 2020-01-01
 
