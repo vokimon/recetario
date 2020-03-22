@@ -7,6 +7,12 @@
 - Nuevas recetas propias
 	- Pollo a la salsa de naranja
 	- Spaghetti Saporo
+- Nuevas recetas del recetario
+	- Timbal de macarrones
+	- Macarrones al Gratén
+	- Macarrones a la Dominicana
+	- Tronco de Patatas Frío
+	- Tronco de Patatas de Carne
 
 ### v0.0.4 2020-01-01
 
