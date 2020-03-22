@@ -25,7 +25,7 @@ Colocarlas en una fuete resistente al horno,
 junto con el vino, poniendolas al horno unos 12 minutos.
 (En vez del horno, se pueden cocer al fuego pero tapadas y a fuego lento)
 
-Una vez codidas las patatas volcarlas en una fuete de servir.
+Una vez cocidas las patatas volcarlas en una fuente de servir.
 Colocar las salchichas encima en forma de estrellas y espolvorear con perejil picado.
 
 
