@@ -12,7 +12,7 @@ Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 ### Preparación
 
-Una vez lipio el pollo
+Una vez limpio el pollo,
 que se habrá dejado entero,
 se sazona por fuera y por dentro con sal, zumo  de limon y abundante pimienta molida.
 

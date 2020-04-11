@@ -15,7 +15,7 @@ Se fríe el pollo y se saca.
 Se frien las gambas y se sacan.
 
 En una cazuela de barro, se le pone una lata de 1/2kg de tomate triturado
-y 1/2 lata de agua, un vaso pequeño de vino y las almendras machacadas.
+y 1/2l de agua, un vaso pequeño de vino y las almendras machacadas.
 
 Cocer todo a fuego lento hasta que se reduzca el tomate.
 
