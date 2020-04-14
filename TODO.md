@@ -27,8 +27,6 @@ Platos que aún no he tenido tiempo de pasar.
 - Tortilla de patatas
 - Tortilla de champiñones
 - Tortilla de espinacas
-- Potaje de Garbanzos de Semana Santa
-- Arroz con leche
 - Natillas
 
 ### Propias y aprendidas
