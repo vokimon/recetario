@@ -4,7 +4,7 @@
 
 - Nuevas recetas familiares
 	- Sopaipas (dictada por Ana Maestre)
-	- Potage de Garbanzos 
+	- Potaje de Garbanzos
 	- Arroz con Leche
 - Nuevas recetas propias
 	- Pollo a la salsa de naranja
