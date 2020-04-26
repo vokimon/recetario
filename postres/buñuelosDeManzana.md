@@ -15,7 +15,7 @@ Receta del recetario manuscrito de Josefa Garzón Salcedo
 ### Preparación
 
 Una vez mondadas las manzanas,
-se frotan con un limon y se les quita el corazon sin partirlas con un utensiio especial para ese uso.
+se frotan con un limón y se les quita el corazón sin partirlas con un utensilio especial para ese uso.
 Luego se cortan en rodajas.
 Ponerlas en una fuente espolvorearlas con azúcar.
 Cuando se haya derretido el azúcar, verter el coñac.

@@ -34,7 +34,7 @@ Hacer las tortillas. Colocar 1a de patatas.
 Luego la de atun y encima la de espinacas.
 Por ultimo, verter las dos salsas y adornar alrededor con trocitos de ensalada.
 
-Nota: La tortilla se presta a hacer mucha variedad con distiintos rellenos, que pueden combinarse a gusto de cada uno.
+Nota: La tortilla se presta a hacer mucha variedad con distintos rellenos, que pueden combinarse a gusto de cada uno.
 Se puede mencionar alguna más como la tortilla de judias secas (hervidas y fritas ligeramente)
 con trocitos de butifarra e igualmente puede hacerse con garbanzos.
 
