@@ -1,5 +1,7 @@
 ## Croquetas de cocido
 
+\fotoplato{images/croquetasDeCocido.jpg}
+
 Receta familiar.
 
 En casa no solíamos hacer croquetas.
@@ -12,7 +14,7 @@ nuestro caldo/cocido.
 - El material colado de hacer caldo
 - Harina
 - Leche
-- Un vaso de vino
+- Un vaso de vino blanco
 - Un vaso de caldo
 - Nuez moscada
 - Pan rallado
