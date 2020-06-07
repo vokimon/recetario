@@ -4,6 +4,7 @@
 
 - Nuevas recetas de colegas
 	- Risotto de Portobello (de Bego Ingreen)
+	- Cuscús Toweno (de Bego Ingreen)
 	- Sopaipas (dictada por Ana Maestre)
 - Nuevas recetas familiares
 	- Potaje de Garbanzos
@@ -19,6 +20,8 @@
 	- Tronco de Patatas con Espinacas
 	- Tronco de Patatas de Carne
 	- Patatas con Huevos Encapotados
+- Fotos de platos
+	- Croquetas de Cocido
 
 ### v0.0.4 2020-01-01
 
