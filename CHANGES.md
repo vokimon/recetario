@@ -1,11 +1,11 @@
 # Cambios
 
-### v0.0.5 2020-??-??
+### v0.0.5 2020-08-08
 
 - Nuevas recetas de colegas
 	- Risotto de Portobello (de Bego Ingreen)
 	- Cuscús Toweno (de Bego Ingreen)
-	- Sopaipas (dictada por Ana Maestre)
+	- Sopaipas (tradicional de La Victoria por Ana Maestre)
 - Nuevas recetas familiares
 	- Potaje de Garbanzos
 	- Arroz con Leche
