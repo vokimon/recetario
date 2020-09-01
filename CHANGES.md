@@ -1,5 +1,10 @@
 # Cambios
 
+### No publicado
+
+- Recetas aprendidas
+	- Salsa agridulce
+
 ### v0.0.5 2020-08-08
 
 - Nuevas recetas de colegas
