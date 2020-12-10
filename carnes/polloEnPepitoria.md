@@ -20,7 +20,7 @@ Se limpia, se lava, se churasca.
 Se deja escurrir.
 Se sala y se pone a dorar en una cazuela con aceite.
 Cuando esta bien dorado se saca, y en el mismo aceite se sofríe la cebolla rayada.
-Cuendo empiece a coger color se le echa el ajo y el perejil picado en un mortero.
+Cuando empiece a coger color se le echa el ajo y el perejil picado en un mortero.
 Al cabo de un poco, la harina.
 Se remueve un par de veces y se tira el vino.
 Se deja hervir todo junto unos momentos y se añade el pollo y dos cucharones de agua.

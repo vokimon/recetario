@@ -4,6 +4,8 @@
 
 - Recetas aprendidas
 	- Salsa agridulce
+	- Carne membrillo
+	- Arroz de otoño
 
 ### v0.0.5 2020-08-08
 
