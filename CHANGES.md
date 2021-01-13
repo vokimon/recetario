@@ -7,6 +7,8 @@
 	- Arroz de otoño
 - Recetas familiares
 	- Carne membrillo
+- Nevas recetas de colegas
+	- Vichyssoise sin lacteos (de Bego Ingreen)
 
 ### v0.0.5 2020-08-08
 
