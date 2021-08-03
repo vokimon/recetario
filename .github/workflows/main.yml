@@ -27,22 +27,6 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt install pandoc texlive-latex-extra texlive-fonts-extra texlive-lang-spanish ttf-mscorefonts-installer texlive-humanities context
-#      - name: Detect inputs
-#        shell: bash
-#        run: |
-#          echo "input-files:" > defaults.yaml
-#          echo "- metadata.yaml" >> defaults.yaml
-#          for a in */*md; do echo "- $a" >> defaults.yaml; done
-#      - uses: docker://pandoc/latex
-#        with:
-#          run: echo
-#          args: >-  # allows you to break string into multiple lines
-#            --standalone
-#            -f markdown
-#            -H header.tex
-#            --defaults defaults.yaml
-#            -o raure.pdf
-      # Runs a single command using the runners shell
       - name: Generate pdf
         run: |
           ./buildme.sh
