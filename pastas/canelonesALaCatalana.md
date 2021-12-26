@@ -23,7 +23,7 @@ Receta del recetario manuscrito de Josefa Garzón Salcedo
 
 Verter un tacita de aceite i sal en abundante agua hirviendo.
 Poner los canelones de uno en uno dejándolos hervir lentamente unos 15 minuos removiendolos de vez en cuando.
-Una ves cocidos sacarlos con espumadera y ponerslos en recipiente de agua fría.
+Una vez cocidos sacarlos con espumadera y ponerslos en recipiente de agua fría.
 Despues de unos minutos colocarlos sobre un marmol o paño de cocina (uno al lado de otro) a punto para rellenarlos.
 
 ### Relleno
@@ -35,7 +35,7 @@ Después agregar el tomate y una tacita de caldo.
 Cocer unos minutos y poner el jamon.
 Sazonar un poco, dar unas vueltas mas y retirar.
 Pasarlo por la maquina de trinchar, quedando picadillo fino.
-Añadirle el foigras mezclando y ponerlo otra vesz en la cazuela para aprovechar toda la sustancia. que queda en ella, removiendolo unos segundos.
+Añadirle el foigras mezclando y ponerlo otra vez en la cazuela para aprovechar toda la sustancia. que queda en ella, removiendolo unos segundos.
 
 ### Montaje
 

@@ -2,12 +2,14 @@
 
 ### Próxima versión
 
-- Recetas aprendidas
-	- Salsa agridulce
+- Nuevas recetas propias:
+	- Canelones de Champiñones
 	- Arroz de otoño
-- Recetas familiares
+- Nuevas recetas aprendidas:
+	- Salsa agridulce
+- Nuevas recetas familiares:
 	- Carne membrillo baja en azúcar
-- Nuevas recetas de colegas
+- Nuevas recetas de colegas:
 	- Entacada piramidal de espinacas (de Bego Ingreen)
 	- Vichyssoise sin lacteos (de Bego Ingreen)
 - Nuevas fotos:
