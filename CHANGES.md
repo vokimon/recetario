@@ -6,9 +6,12 @@
 	- Salsa agridulce
 	- Arroz de otoño
 - Recetas familiares
-	- Carne membrillo
-- Nevas recetas de colegas
+	- Carne membrillo baja en azúcar
+- Nuevas recetas de colegas
+	- Entacada piramidal de espinacas (de Bego Ingreen)
 	- Vichyssoise sin lacteos (de Bego Ingreen)
+- Nuevas fotos:
+	- Gambas al cava
 
 ### v0.0.5 2020-08-08
 
