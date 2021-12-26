@@ -1,5 +1,7 @@
 ## Gambas al Cava
 
+\fotoplato{images/gambasAlChampan.jpg}
+
 ### Ingredientes
 
 - 1kg de gambas
