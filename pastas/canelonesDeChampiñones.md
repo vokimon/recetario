@@ -25,9 +25,10 @@ cambiando el relleno.
 La pasta y la bechamel se prepararía igual que para
 los [Canelones a la Catalana].
 
-Para el relleno, picar el ajo, la cebolla y sofreir en una sartén.
+Para el relleno, picar el ajo, la cebolla el perejil y sofreir en una sartén.
 Cuando empiecen a estar cocinados añadir el puerro cortado fino.
-Cuando todo esté sofrito, añadimos los champiñones limpios y troceados.
+Cuando todo esté sofrito, añadimos los champiñones limpios, troceados.
+Se sazona con sal y especia, por ejemplo, con cardamomo, gengibre y pimienta.
 Cocemos bien hasta que los champiñones oscurezcan.
 Añadimos el vino y reducimos.
 
