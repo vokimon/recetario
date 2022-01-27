@@ -1,6 +1,6 @@
 # Cambios
 
-### Próxima versión
+### v0.0.6 2022-01-27
 
 - Nuevas recetas propias:
 	- Canelones de Champiñones
