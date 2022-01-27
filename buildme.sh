@@ -17,7 +17,7 @@ done
 
 
 # ConTeX
-pandoc --toc --toc-depth=2 -H context-header.tex -t context metadata.yaml README.md  */*md TODO.md CHANGES.md LICENCIA.md -s -o recetario.tex && context recetario.tex --result=recetario-context.pdf
+#pandoc --toc --toc-depth=2 -H context-header.tex -t context metadata.yaml README.md  */*md TODO.md CHANGES.md LICENCIA.md -s -o recetario.tex && context recetario.tex --result=recetario-context.pdf
 
 # LaTeX
 pandoc --toc --toc-depth=2 -H header.tex metadata.yaml README.md  */*md TODO.md CHANGES.md LICENCIA.md -s -o recetario.pdf
