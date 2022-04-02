@@ -1,5 +1,10 @@
 # Cambios
 
+### No publicado
+
+- Nuevas recetas familiares
+	- Fideos a la cazuela (de Miky Garzón)
+
 ### v0.0.6 2022-01-27
 
 - Nuevas recetas propias:
