@@ -1,11 +1,11 @@
 # Cambios
 
-### No publicado
+### v0.0.7 2022-10-28
 
-- Nuevas recetas familiares
-	- Fideos a la cazuela (de Miky Garzón)
 - Nuevas recetas propias
 	- Pasta con Salsa Escalivada
+- Nuevas recetas familiares
+	- Fideos a la cazuela (de Miky Garzón)
 
 ### v0.0.6 2022-01-27
 
