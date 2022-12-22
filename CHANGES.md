@@ -1,5 +1,11 @@
 # Cambios
 
+### No publicado
+
+- Nuevas recetas de amigos
+	- Kirsch de cebolla (de Ines, la mamá de Bren)
+	- Kirsch de morcilla y pera (de Ines, la mamá de Bren)
+
 ### v0.0.7 2022-10-28
 
 - Nuevas recetas propias
