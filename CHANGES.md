@@ -2,6 +2,9 @@
 
 ### No publicado
 
+- Nuevas recetas de internele
+	- Tortillas de harina
+	- Estofado de ternera
 - Nuevas recetas de amigos
 	- Kirsch de cebolla (de Ines, la mamá de Bren)
 	- Kirsch de morcilla y pera (de Ines, la mamá de Bren)
