@@ -1,8 +1,8 @@
-# Kirsch de cebollas
+## Kirsch de cebollas
 
 Receta de Inés, la mamá de Bren.
 
-## Ingredientes
+### Ingredientes
 
 - 3 cebollas grandes o 4 medianas
 - 2 huevos enteros 
@@ -13,7 +13,7 @@ Receta de Inés, la mamá de Bren.
 - masa Brisa, de supermercado, o la de empanada pero suele venir cuadrada y hay que adaptar el molde. 
 - el molde debe coincidir en tamaño, con la masa que se usa.
 
-## Preparación
+### Preparación
 
 Picar la cebolla finamente.
 Poner a rehogar en aceite lo suficiente para estar toda empapada pero sin exceso.

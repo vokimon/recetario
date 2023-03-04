@@ -1,8 +1,8 @@
-# Kirsch de morcilla y pera.
+## Kirsch de morcilla y pera.
 
 Receta de Inés, la mamá de Bren.
 
-## Ingredientes
+### Ingredientes
 
 - 1 cebolla grande 
 - 4 cucharadas de queso rallado
@@ -13,7 +13,7 @@ Receta de Inés, la mamá de Bren.
 - 1/2 tarrina de queso filadelfia original no desnatado.
 - Morcilla según tamaño, es para cubrir toda la kirsch con rodajitas o desmenuzada, unas dos, o algo más. quitarle la piel. 
 
-## Preparación
+### Preparación
 
 
 Rehogar la cebolla, retirar del fuego, agregar el queso crema, el queso rallado, batir los huevos y agregar, sal, pimienta.
