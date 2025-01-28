@@ -1,6 +1,6 @@
-# Estofado de ternera
+## Estofado de ternera
 
-## Ingredientes
+### Ingredientes
 
 - 800g  carne de morcill (jarrete o jamón
 - 4 tomates maduros
@@ -9,7 +9,7 @@
 - 1 cebolla
 - 3 dientes de ajo
 
-## Preparación
+### Preparación
 
 El adobo:
 Picar la carne en cuadritos conservando tendones y plieles que daran sabor.

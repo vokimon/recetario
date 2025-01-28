@@ -1,7 +1,7 @@
-# Baba Ganoush
+## Baba Ganoush
 
 
-## Ingredientes
+### Ingredientes
 
 - Dos berenjenas
 - Tres dientes de ajo
@@ -10,7 +10,7 @@
 - Tajín
 - Comino
 
-## Preparación
+### Preparación
 
 Se ponen las berenjenas enteras en el horno para que se cocine con su propio vapor.
 Se retiran y cuando este un poco fría,

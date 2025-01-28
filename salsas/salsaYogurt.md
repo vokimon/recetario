@@ -1,7 +1,7 @@
 
-# Salsa Yogurt
+## Salsa Yogurt
 
-## Ingredientes
+### Ingredientes
 
 - 8 cucharadas soperas de yogurt griego
 - 1/2 pepino (o uno pequeño) pelado
@@ -9,7 +9,7 @@
 - Dos dientes de ajo o al gusto
 - Sesamo (la original ponia Tajín)
 
-## Preparación
+### Preparación
 
 Se pelan y se parten el pepino y los ajos.
 Se bate todo junto.
