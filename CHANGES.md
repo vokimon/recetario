@@ -1,6 +1,6 @@
 # Cambios
 
-### No publicado
+### v0.0.8 2025-01-28
 
 - Nuevas recetas familiares
     - Fricandó de ternera con setas
