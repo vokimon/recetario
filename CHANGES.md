@@ -2,6 +2,8 @@
 
 ### No publicado
 
+- Nuevas recetas familiares
+    - Fricandó de ternera con setas
 - Nuevas recetas de internele
 	- Tortillas de harina
 	- Estofado de ternera

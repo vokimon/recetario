@@ -14,7 +14,6 @@ Platos que aún no he tenido tiempo de pasar.
 
 - Cocido bastardo (madrileño-cordobés-catalán)
 - Migas
-- Fricandó de Ternera con Setas
 - Albondigas con Caldo
 - Albondigas Fritas
 - Hamburguesas
